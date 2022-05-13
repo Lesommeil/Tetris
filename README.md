@@ -1,7 +1,10 @@
 # Tetris
 
 
-this is my first game I'm making, there still have many problem, and many thing is undone.
+this is my first game I'm making, and it's relay on Love2D.
+
+There still have many problem, and many thing is undone.
+
 undone:
 the code need be clear, ui, T-spin(I don't even know how to perform it), some game mode...
 problem:
